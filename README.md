@@ -1,5 +1,5 @@
 # Bank ATM System
-The ibjective of the project is to speed up the transactions done by customers & to implement and design the Bank ATM system by identifying the requirements of the Bank ATM system. No manual transactions are needed generally. The second objective is to save time which is very important nowadays.
+The objective of the project is to speed up the transactions done by customers & to implement and design the Bank ATM system by identifying the requirements of the Bank ATM system. No manual transactions are needed generally. The second objective is to save time which is very important nowadays.
 The project to be designed will control a simulated automated teller machine (ATM), a customer console (keyboard and display) for interaction with the customer, a printer for printing customer receipts, and a key-operated switch to allow an operator to start or stop the machine. The ATM will communicate with the bank's computer over an appropriate communication link. Design the ATM system in detail with the class diagram.
 
 <img src="https://user-images.githubusercontent.com/110801658/227011980-2f1beefc-a2be-420d-a5b8-bc258d0687a0.png" height="700">
